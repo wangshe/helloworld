@@ -1,8 +1,8 @@
 msgid "Alist"
-msgstr "Alist 文件列表"
+msgstr "Alist文件列表"
 
 msgid "Open Web Interface"
-msgstr "打开 Web 界面"
+msgstr "打开Web界面"
 
 msgid "A file list program that supports multiple storage."
 msgstr "一款支持多种存储的目录文件列表程序。"
@@ -20,19 +20,19 @@ msgid "Port"
 msgstr "端口"
 
 msgid "Enable SSL"
-msgstr "启用 SSL"
+msgstr "启用SSL"
 
 msgid "SSL cert"
-msgstr "SSL 证书"
+msgstr "SSL证书"
 
 msgid "SSL certificate file path"
-msgstr "SSL 证书文件路径"
+msgstr "SSL证书文件路径"
 
 msgid "SSL key"
-msgstr "SSL 密钥"
+msgstr "SSL密钥"
 
 msgid "SSL key file path"
-msgstr "SSL 密钥文件路径"
+msgstr "SSL密钥文件路径"
 
 msgid "Data directory"
 msgstr "数据目录"
@@ -86,16 +86,16 @@ msgid "0 is unlimited, It is recommend to set a low number of concurrency (10-20
 msgstr "默认0不限制，低性能设备建议设置较低的并发数（10-20）"
 
 msgid "Site URL"
-msgstr "站点 URL"
+msgstr "站点URL"
 
 msgid "When the web is reverse proxied to a subdirectory, this option must be filled out to ensure proper functioning of the web. Do not include '/' at the end of the URL"
-msgstr "Web 被反向代理到二级目录时，必须填写该选项以确保 Web 正常工作。URL 结尾请勿携带 '/'"
+msgstr "Web被反向代理到二级目录时，必须填写该选项以确保Web正常工作。URL结尾请勿携带 '/'"
 
 msgid "Delayed Start (seconds)"
 msgstr "开机延时启动（秒）"
 
 msgid "Enable MySQL"
-msgstr "启用 MySQL"
+msgstr "启用MySQL"
 
 msgid "MySQL Host"
 msgstr "主机"

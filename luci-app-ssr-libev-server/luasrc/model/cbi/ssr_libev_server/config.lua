@@ -13,7 +13,7 @@ local protocol = {"origin"}
 local obfs = {"plain", "http_simple", "http_post"}
 
 a = Map(i, "ShadowsocksR Libev " .. translate("Server Config"))
-a.redirect = d.build_url("admin", "vpn", "ssr_libev_server")
+a.redirect = d.build_url("admin", "services", "ssr_libev_server")
 
 t = a:section(NamedSection, arg[1], "user", "")
 t.addremove = false

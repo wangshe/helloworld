@@ -16,29 +16,29 @@ msgstr ""
 
 #: /mnt/A/openwrt-latest/package/ctcgfw/luci-app-adguardhome/luasrc/controller/AdGuardHome.lua:6
 msgid "AdGuard Home"
-msgstr ""
+msgstr "广告拦截"
 
 #: /mnt/A/openwrt-latest/package/ctcgfw/luci-app-adguardhome/luasrc/model/cbi/AdGuardHome/base.lua:67
 msgid "AdGuardHome Bin path if no bin will auto download"
-msgstr "AdGuardHome 执行文件路径 如果没有执行文件将自动下载"
+msgstr "执行文件路径 如果没有执行文件将自动下载"
 
 #: /mnt/A/openwrt-latest/package/ctcgfw/luci-app-adguardhome/luasrc/model/cbi/AdGuardHome/base.lua:99
 msgid "AdGuardHome config path"
-msgstr "AdGuardHome 配置文件路径"
+msgstr "配置文件路径"
 
 #
 #: /mnt/A/openwrt-latest/package/ctcgfw/luci-app-adguardhome/luasrc/model/cbi/AdGuardHome/base.lua:58
 msgid "AdGuardHome redirect mode"
-msgstr "AdGuardHome重定向模式"
+msgstr "重定向模式"
 
 #: /mnt/A/openwrt-latest/package/ctcgfw/luci-app-adguardhome/luasrc/model/cbi/AdGuardHome/base.lua:142
 msgid ""
 "AdGuardHome runtime Log file if 'syslog': write to system log;if empty no log"
-msgstr "AdGuardHome 运行日志 如果填syslog将写入系统日志；如果空则不记录日志"
+msgstr "运行日志 如果填syslog将写入系统日志；如果空则不记录日志"
 
 #: /mnt/A/openwrt-latest/package/ctcgfw/luci-app-adguardhome/luasrc/model/cbi/AdGuardHome/base.lua:120
 msgid "AdGuardHome work dir include rules,audit log and database"
-msgstr "AdGuardHome 工作目录包含规则，审计日志和数据库"
+msgstr "工作目录包含规则，审计日志和数据库"
 
 #: /mnt/A/openwrt-latest/package/ctcgfw/luci-app-adguardhome/luasrc/model/cbi/AdGuardHome/base.lua:179
 msgid "Add"
@@ -216,7 +216,7 @@ msgstr "重定向"
 
 #: /mnt/A/openwrt-latest/package/ctcgfw/luci-app-adguardhome/luasrc/model/cbi/AdGuardHome/base.lua:62
 msgid "Redirect 53 port to AdGuardHome"
-msgstr "重定向53端口到AdGuardHome"
+msgstr "重定向53端口到广告拦截"
 
 #: /mnt/A/openwrt-latest/package/ctcgfw/luci-app-adguardhome/luasrc/view/AdGuardHome/AdGuardHome_status.htm:13
 msgid "Redirected"

@@ -1,8 +1,11 @@
 msgid ""
 msgstr "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "Hello World"
+msgstr "科学上网"
+
 msgid "vssr"
-msgstr "Hello World"
+msgstr "科学上网"
 
 msgid "Client"
 msgstr "客户端"
@@ -32,7 +35,7 @@ msgid "Global Server"
 msgstr "全局服务器"
 
 msgid "vssr SOCK5 Proxy is running"
-msgstr "vssr SOCK5代理运行中"
+msgstr "SOCK5代理运行中"
 
 msgid "UDP Relay Server"
 msgstr "UDP中继服务器"
@@ -128,13 +131,13 @@ msgid "SSR Server"
 msgstr "服务端"
 
 msgid "vssr Server"
-msgstr "Hello World 服务端"
+msgstr "服务端"
 
 msgid "vssr Server is running"
-msgstr "Hello World 服务端运行中"
+msgstr "服务端运行中"
 
 msgid "vssr Server is not running"
-msgstr "Hello World 服务端未运行"
+msgstr "服务端未运行"
 
 msgid "Enable Server"
 msgstr "启动服务端"
@@ -143,19 +146,19 @@ msgid "Server Setting"
 msgstr "服务端配置"
 
 msgid "KcpTun Enable"
-msgstr "KcpTun 启用"
+msgstr "KcpTun启用"
 
 msgid "bin:/usr/bin/kcptun-client"
 msgstr "二进制文件：/usr/bin/kcptun-client"
 
 msgid "KcpTun Port"
-msgstr "KcpTun 端口"
+msgstr "KcpTun端口"
 
 msgid "KcpTun Param"
-msgstr "KcpTun 参数"
+msgstr "KcpTun参数"
 
 msgid "KcpTun Password"
-msgstr "KcpTun 密码"
+msgstr "KcpTun密码"
 
 msgid "Haven't a Kcptun executable file"
 msgstr "不存在Kcptun可执行文件，请下载Kcptun可执行文件并改名放入/usr/bin/kcptun-client"
@@ -173,10 +176,10 @@ msgid "Alias"
 msgstr "别名"
 
 msgid "Xray SOCKS5 Proxy"
-msgstr "Xray SOCKS5 代理"
+msgstr "Xray SOCKS5代理"
 
 msgid "Xray HTTP Proxy"
-msgstr "Xray HTTP 代理"
+msgstr "Xray HTTP代理"
 
 msgid "Server"
 msgstr "服务器"
@@ -200,19 +203,19 @@ msgid "Global SSR Server"
 msgstr "SSR服务端"
 
 msgid "DNS Tunnel"
-msgstr "DNS 隧道"
+msgstr "DNS隧道"
 
 msgid "IPK Version"
-msgstr "IPK 版本号"
+msgstr "IPK版本号"
 
 msgid "KcpTun Version"
-msgstr "KcpTun 版本号"
+msgstr "KcpTun版本号"
 
 msgid "Not exist"
 msgstr "未安装可执行文件"
 
 msgid "IPK Installation Time"
-msgstr "IPK 安装时间"
+msgstr "IPK安装时间"
 
 msgid "Project"
 msgstr "项目地址"
@@ -224,7 +227,7 @@ msgid "Running"
 msgstr "运行中"
 
 msgid "Enable GFW mode"
-msgstr "启用 GFW 模式"
+msgstr "启用GFW模式"
 
 msgid "Running Mode"
 msgstr "运行模式"
@@ -260,10 +263,10 @@ msgid "UDP Relay"
 msgstr "UDP中继"
 
 msgid "Google Connectivity"
-msgstr "【谷歌】连通性检查"
+msgstr "谷歌连通性检查"
 
 msgid "Baidu Connectivity"
-msgstr "【百度】连通性检查"
+msgstr "百度连通性检查"
 
 msgid "No Check"
 msgstr "未检查"
@@ -285,10 +288,10 @@ msgstr "代理检查"
 
 
 msgid "GFW List Data"
-msgstr "【GFW列表】数据库"
+msgstr "GFW列表数据库"
 
 msgid "China IP Data"
-msgstr "【国内IP段】数据库"
+msgstr "国内IP段数据库"
 
 msgid "Records"
 msgstr "条记录"
@@ -312,7 +315,7 @@ msgid "Total Records:"
 msgstr "新的总纪录数："
 
 msgid "Check Server Port"
-msgstr "【服务器端口】检查"
+msgstr "服务器端口检查"
 
 msgid "Check Connect"
 msgstr "检查连通性"
@@ -339,7 +342,7 @@ msgid "Enable Process Deamon"
 msgstr "启用进程自动守护"
 
 msgid "Advertising Data"
-msgstr "【广告屏蔽】数据库"
+msgstr "广告屏蔽数据库"
 
 msgid "DNS Server IP and Port"
 msgstr "DNS服务器地址和端口"
@@ -357,10 +360,10 @@ msgid "Use Other DNS Tunnel(Need to install)"
 msgstr "使用其他DNS转发(需要自己安装)"
 
 msgid "Import SSR"
-msgstr "导入ssr配置信息"
+msgstr "导入SSR配置信息"
 
 msgid "Export SSR"
-msgstr "导出ssr配置信息"
+msgstr "导出SSR配置信息"
 
 msgid "Import SSR successfully."
 msgstr "成功导入SSR。"
@@ -393,7 +396,7 @@ msgid "GFW List"
 msgstr "GFW列表"
 
 msgid "Basic Settings [SS|SSR|Xray|Trojan]"
-msgstr "基本设置 [SS|SSR|Xray|Trojan]"
+msgstr "基本设置"
 
 msgid "Main Server"
 msgstr "主服务器"
@@ -408,10 +411,10 @@ msgid "DNS Server IP:Port"
 msgstr "DNS服务器 IP:Port"
 
 msgid "Update time (every day)"
-msgstr "更新时间 (每天)"
+msgstr "更新时间(每天)"
 
 msgid "Auto Update Server subscription, GFW list and CHN route"
-msgstr "自动更新服务器订阅、GFW列表和 CHN路由表"
+msgstr "自动更新服务器订阅、GFW列表和CHN路由表"
 
 msgid "Subscribe URL"
 msgstr "SSR/V2RAY订阅URL地址"
@@ -432,13 +435,13 @@ msgid "WAN IP AC"
 msgstr "广域网访问控制"
 
 msgid "WAN White List IP"
-msgstr "不走代理的广域网 IP"
+msgstr "不走代理的广域网IP"
 
 msgid "WAN Force Proxy IP"
-msgstr "强制走代理的广域网 IP"
+msgstr "强制走代理的广域网IP"
 
 msgid "LAN Bypassed Host List"
-msgstr "不走代理的局域网LAN IP"
+msgstr "不走代理的局域网LANIP"
 
 msgid "LAN Force Proxy Host List"
 msgstr "全局代理的LAN IP"
@@ -459,19 +462,19 @@ msgid "Forwarded Proxy"
 msgstr "全局代理"
 
 msgid "GFW Custom List"
-msgstr "GFW 用户自定义列表"
+msgstr "GFW用户自定义列表"
 
 msgid "Please refer to the following writing"
 msgstr "每行一个域名，无需写前面的 HTTP(S):// ，提交后即时生效"
 
 msgid "Servers subscription and manage"
-msgstr "服务器节点订阅管理（支持SSR/V2ray 订阅）"
+msgstr "服务器节点订阅管理"
 
 msgid "Subscription"
 msgstr "节点订阅"
 
 msgid "Through proxy update list, Not Recommended"
-msgstr "通过路由器自身代理更新订阅（不推荐）"
+msgstr "通过路由器自身代理更新订阅"
 
 msgid "LAN IP AC"
 msgstr "局域网访问控制"
@@ -570,7 +573,7 @@ msgid "Delete"
 msgstr "删除"
 
 msgid "Ping All Servers"
-msgstr "Ping 所有节点"
+msgstr "Ping所有节点"
 
 msgid "Check Ip And Access"
 msgstr "Ip地址检查"
@@ -631,25 +634,25 @@ msgid "Open v2ray route"
 msgstr "开启分流"
 
 msgid "When open v2ray routed,Apply may take more time."
-msgstr "(支持全类型分流)当分流开启时，保存并应用的时间可能变长。"
+msgstr "当分流开启时，保存并应用的时间可能变长。"
 
 msgid "Youtube Proxy"
-msgstr "Youtube 代理"
+msgstr "Youtube代理"
 
 msgid "TaiWan Video Proxy"
 msgstr "台湾视频服务代理"
 
 msgid "Netflix Proxy"
-msgstr "Netflix 代理"
+msgstr "Netflix代理"
 
 msgid "Disney+ Proxy"
-msgstr "Disney+ 代理"
+msgstr "Disney+代理"
 
 msgid "Prime Video Proxy"
-msgstr "Prime Video 代理"
+msgstr "Prime Video代理"
 
 msgid "TVB Video Proxy"
-msgstr "TVB 视频代理"
+msgstr "TVB视频代理"
 
 msgid "Custom Proxy"
 msgstr "自定义代理"
@@ -679,7 +682,7 @@ msgid "Subscribe Filter Words"
 msgstr "订阅过滤关键词"
 
 msgid "Filter Words splited by /"
-msgstr "使用 / 分隔关键词"
+msgstr "使用/分隔关键词"
 
 msgid "VLESS Encryption"
 msgstr "VLESS 加密"
@@ -694,22 +697,22 @@ msgid "Router domain config"
 msgstr "分流域名设置"
 
 msgid "Youtube Domain"
-msgstr "YouTube 域名"
+msgstr "YouTube域名"
 
 msgid "Tw Video Domain"
 msgstr "台湾视频域名"
 
 msgid "Netflix Domain"
-msgstr "Netflix 域名"
+msgstr "Netflix域名"
 
 msgid "Disney+ Domain"
-msgstr "Disney+ 域名"
+msgstr "Disney+域名"
 
 msgid "Prime Video Domain"
-msgstr "Prime Video 域名"
+msgstr "Prime Video域名"
 
 msgid "TVB Domain"
-msgstr "TVB 域名"
+msgstr "TVB域名"
 
 msgid "Custom Domain"
 msgstr "自定义域名"
@@ -727,7 +730,7 @@ msgid "↑ Put your domain list here"
 msgstr "↑ 在上面放置你需要分流的域名列表"
 
 msgid "China ip data URL"
-msgstr "【国内IP段】来源地址"
+msgstr "国内IP段来源地址"
 
 msgid "China ip data url. You are not recommended to change the value"
 msgstr "中国大陆IP数据列表地址，除非明白原理否则不建议修改！"
