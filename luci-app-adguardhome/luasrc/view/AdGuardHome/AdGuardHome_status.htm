@@ -4,9 +4,9 @@ XHR.poll(3, '<%=url([[admin]], [[services]], [[AdGuardHome]], [[status]])%>', nu
 		var tb = document.getElementById('AdGuardHome_status');
 		if (data && tb) {
 			if (data.running) {
-				tb.innerHTML = '<em><b><font color=green>AdGuardHome <%:RUNNING%></font></b></em>';
+				tb.innerHTML = '<em><b><font color=green>广告拦截<%:RUNNING%></font></b></em>';
 			} else {
-				tb.innerHTML = '<em><b><font color=red>AdGuardHome <%:NOT RUNNING%></font></b></em>';
+				tb.innerHTML = '<em><b><font color=red>广告拦截<%:NOT RUNNING%></font></b></em>';
 			}
 			if (data.redirect)
 			{
